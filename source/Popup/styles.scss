@@ -1,0 +1,29 @@
+@import "../styles/fonts";
+@import "../styles/reset";
+@import "../styles/variables";
+
+#popup {
+  min-width: 350px;
+  padding: 30px 20px;
+
+  h2 {
+    font-size: 20px;
+  }
+
+  button {
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px 17px;
+    color: white;
+    cursor: pointer;
+
+    &.on {
+      background-color: green;
+    }
+
+    &.off {
+      background-color: orangered;
+    }
+  }
+}

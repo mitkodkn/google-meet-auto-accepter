@@ -1,0 +1,13 @@
+@import "../styles/fonts";
+@import "../styles/reset";
+@import "../styles/variables";
+
+@import "~webext-base-css/webext-base.css";
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+body {
+  color: $black;
+  background-color: $greyWhite;
+  font-family: 'Noto Sans', sans-serif;
+}

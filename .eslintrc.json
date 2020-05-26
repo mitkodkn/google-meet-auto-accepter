@@ -1,0 +1,12 @@
+{
+	"extends": [
+		"@abhijithvijayan/eslint-config/typescript",
+		"@abhijithvijayan/eslint-config/react"
+	],
+	"rules": {
+		"no-console": "off",
+		"no-extend-native": "off",
+		"react/jsx-props-no-spreading": "off",
+		"jsx-a11y/label-has-associated-control": "off"
+	}
+}
