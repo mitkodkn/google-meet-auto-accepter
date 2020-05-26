@@ -9,7 +9,7 @@ Extension quickie made for [TUES Fest 2020](https://tuesfest.bg).
 
 ## ⏬ Download Links
 
- - [Google Chrome / Microsoft Edge](https://github.com/mitkodkn/google-meet-auto-accepter/releases/download/1.0.1/chrome.zip)
+ - [Google Chrome / Microsoft Edge](https://github.com/mitkodkn/google-meet-auto-accepter/releases/download/1.0.1/chrome.crx)
  - [Firefox](https://github.com/mitkodkn/google-meet-auto-accepter/releases/download/1.0.1/firefox.xpi)
  - [Opera](https://github.com/mitkodkn/google-meet-auto-accepter/releases/download/1.0.1/opera.crx)
 
