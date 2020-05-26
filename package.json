@@ -1,6 +1,6 @@
 {
   "name": "google-meet-auto-accepter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Auto accept participants in Google Meet conference calls",
   "private": true,
   "repository": "https://github.com/mitkodkn/google-meet-auto-accepter.git",
